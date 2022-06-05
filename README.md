@@ -1,11 +1,13 @@
 # READ ME.MD
                                                                       Group 5
                                                                     'HomeCare'
-Prepared by: 1. Muhammad Mujahid bin Abdullah (2110685)
-             2. Muhammad Iqbal Bin Ishak (2117045)
-             3. Jannatul Ferdous (192473)
-             4. Muhammad Dini Aulia bin Shamsudin (2112073)
-             5. Muhammad Syahmi Bin Mohd Subky (2110225)
+Prepared by:
+1.   Muhammad Mujahid bin Abdullah (2110685)
+2.  Muhammad Iqbal Bin Ishak (2117045)
+3. Jannatul Ferdous (192473)
+4.  Muhammad Dini Aulia bin Shamsudin (2112073)
+5.   Muhammad Syahmi Bin Mohd Subky (2110225)
+
 
 1. Project Description
 
