@@ -25,4 +25,5 @@ Prepared by:1. Muhammad Mujahid bin Abdullah (2110685)
     contact details to give them better user experience.
 
 2. Project Sitemap
-  
+
+  ![](images/sitemap.png)
