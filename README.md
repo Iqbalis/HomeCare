@@ -31,3 +31,5 @@ Prepared by:1. Muhammad Mujahid bin Abdullah (2110685)
 3. Group Contributions
 
    Each of the team members prepared 1 web page for the project as shown in the following table.
+
+  ![](images/contributions.png)
