@@ -36,3 +36,9 @@ Prepared by:1. Muhammad Mujahid bin Abdullah (2110685)
   
 4. Use of third party resources
   
+5. Resources
+
+  1. Color Hunt: Color Palettes for Designer And Artists
+     Retrieved from https://colorhunt.co/
+
+  1. 
