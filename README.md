@@ -35,6 +35,8 @@ Prepared by:1. Muhammad Mujahid bin Abdullah (2110685)
   ![](images/contribution.png)
   
 4. Use of third party resources
+
+  ![](images/thirdparty.png)
   
 5. Resources
 
